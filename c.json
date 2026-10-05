@@ -1,4 +1,35 @@
 {
   "v": 1,
-  "items": []
+  "items": [
+    {
+      "maWeb": 26100501,
+      "nenTang": "android",
+      "khoaVo": "1.0.295+502",
+      "url": "https://github.com/diendv/u_mps/releases/download/r26100501/p.bin",
+      "sha256": "a44d22d8fb406fc479f6e810106c78dc1399fd2c2ea4d51b592a774ec108bfe5",
+      "sig": "IX5c6Y67dW16golSds4gZ79Fz62cJHazIWqteC3pvOEJ2iI71fPJIJ1d94ftQrrjbTCRuA8bPTWaurz8U9WEI4LTM91eoHKP7IGUZFQeAug78eoz4RRXgWGvi7Txxa/T9suYoUEH8KRdYx8esdueBJTLI5DlcXxxvuGUfo1XucRZu54uQLSS3FSgXXj0kaFBltAVHo2SXCkfUvKH757QbhyrVVz/ETlUxFYclQ5W/r8e3s2PwNX4ngUBfXCcoQNeemrjxoTc/U1GsdVKJjwk2rSzBdb5e/uvTyeNnpGlUoMUWDiXcTna+fQ4GZ2hCHwlWbvwAkFbypstNaZJfe+6Yg==",
+      "batBuoc": false,
+      "ghiChu": "Nâng cao trải nghiệm tối ưu hóa"
+    },
+    {
+      "maWeb": 26100501,
+      "nenTang": "iosInhouse",
+      "khoaVo": "1.0.295+500",
+      "url": "https://github.com/diendv/u_mps/releases/download/r26100501/p.bin",
+      "sha256": "a44d22d8fb406fc479f6e810106c78dc1399fd2c2ea4d51b592a774ec108bfe5",
+      "sig": "IX5c6Y67dW16golSds4gZ79Fz62cJHazIWqteC3pvOEJ2iI71fPJIJ1d94ftQrrjbTCRuA8bPTWaurz8U9WEI4LTM91eoHKP7IGUZFQeAug78eoz4RRXgWGvi7Txxa/T9suYoUEH8KRdYx8esdueBJTLI5DlcXxxvuGUfo1XucRZu54uQLSS3FSgXXj0kaFBltAVHo2SXCkfUvKH757QbhyrVVz/ETlUxFYclQ5W/r8e3s2PwNX4ngUBfXCcoQNeemrjxoTc/U1GsdVKJjwk2rSzBdb5e/uvTyeNnpGlUoMUWDiXcTna+fQ4GZ2hCHwlWbvwAkFbypstNaZJfe+6Yg==",
+      "batBuoc": false,
+      "ghiChu": "Nâng cao trải nghiệm tối ưu hóa"
+    },
+    {
+      "maWeb": 26100501,
+      "nenTang": "iosAppStore",
+      "khoaVo": "1.0.295+501",
+      "url": "https://github.com/diendv/u_mps/releases/download/r26100501/p.bin",
+      "sha256": "a44d22d8fb406fc479f6e810106c78dc1399fd2c2ea4d51b592a774ec108bfe5",
+      "sig": "IX5c6Y67dW16golSds4gZ79Fz62cJHazIWqteC3pvOEJ2iI71fPJIJ1d94ftQrrjbTCRuA8bPTWaurz8U9WEI4LTM91eoHKP7IGUZFQeAug78eoz4RRXgWGvi7Txxa/T9suYoUEH8KRdYx8esdueBJTLI5DlcXxxvuGUfo1XucRZu54uQLSS3FSgXXj0kaFBltAVHo2SXCkfUvKH757QbhyrVVz/ETlUxFYclQ5W/r8e3s2PwNX4ngUBfXCcoQNeemrjxoTc/U1GsdVKJjwk2rSzBdb5e/uvTyeNnpGlUoMUWDiXcTna+fQ4GZ2hCHwlWbvwAkFbypstNaZJfe+6Yg==",
+      "batBuoc": false,
+      "ghiChu": "Nâng cao trải nghiệm tối ưu hóa"
+    }
+  ]
 }

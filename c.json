@@ -2,6 +2,36 @@
   "v": 1,
   "items": [
     {
+      "maWeb": 26100502,
+      "nenTang": "android",
+      "khoaVo": "1.0.295+502",
+      "url": "https://github.com/diendv/u_mps/releases/download/r26100502/p.bin",
+      "sha256": "d6e3f6772e3024f3050303602c81d3cc235ae2ca0e5a6c564a2661abbe39b82e",
+      "sig": "d5abHbPj6nSP9HQ2UeMZQI6srajT57bVy+KtEJ7GiInZ2NcndkvtOggn/SjMa9IW5UNvS+sDm3YcuPiALxaJFyzgC0DruwXw62BwY19mLx15HRbky7QFF8ocDjcRSMJ4T8B5plCyXK32IyhAMVDyaoWQc0OH1HLiV+LIjuZt0Z0dvXrsY8hmkdd4a6x1nXX0ZfVjbKnJFXegqseq1O8/c8GFivQFEL6CO6bJ2EMO0qHOpCwevKUbuEPIyFui4fXOW3KigNnaVhjUNEcMcSdF072ehKNwrbVXJlOlHmEGA9Ur3n+eDt1cEq4IcmJIjkM1LtWs8YCvwpKleTW+/hBAjQ==",
+      "batBuoc": false,
+      "ghiChu": "Update"
+    },
+    {
+      "maWeb": 26100502,
+      "nenTang": "iosInhouse",
+      "khoaVo": "1.0.295+500",
+      "url": "https://github.com/diendv/u_mps/releases/download/r26100502/p.bin",
+      "sha256": "d6e3f6772e3024f3050303602c81d3cc235ae2ca0e5a6c564a2661abbe39b82e",
+      "sig": "d5abHbPj6nSP9HQ2UeMZQI6srajT57bVy+KtEJ7GiInZ2NcndkvtOggn/SjMa9IW5UNvS+sDm3YcuPiALxaJFyzgC0DruwXw62BwY19mLx15HRbky7QFF8ocDjcRSMJ4T8B5plCyXK32IyhAMVDyaoWQc0OH1HLiV+LIjuZt0Z0dvXrsY8hmkdd4a6x1nXX0ZfVjbKnJFXegqseq1O8/c8GFivQFEL6CO6bJ2EMO0qHOpCwevKUbuEPIyFui4fXOW3KigNnaVhjUNEcMcSdF072ehKNwrbVXJlOlHmEGA9Ur3n+eDt1cEq4IcmJIjkM1LtWs8YCvwpKleTW+/hBAjQ==",
+      "batBuoc": false,
+      "ghiChu": "Update"
+    },
+    {
+      "maWeb": 26100502,
+      "nenTang": "iosAppStore",
+      "khoaVo": "1.0.295+501",
+      "url": "https://github.com/diendv/u_mps/releases/download/r26100502/p.bin",
+      "sha256": "d6e3f6772e3024f3050303602c81d3cc235ae2ca0e5a6c564a2661abbe39b82e",
+      "sig": "d5abHbPj6nSP9HQ2UeMZQI6srajT57bVy+KtEJ7GiInZ2NcndkvtOggn/SjMa9IW5UNvS+sDm3YcuPiALxaJFyzgC0DruwXw62BwY19mLx15HRbky7QFF8ocDjcRSMJ4T8B5plCyXK32IyhAMVDyaoWQc0OH1HLiV+LIjuZt0Z0dvXrsY8hmkdd4a6x1nXX0ZfVjbKnJFXegqseq1O8/c8GFivQFEL6CO6bJ2EMO0qHOpCwevKUbuEPIyFui4fXOW3KigNnaVhjUNEcMcSdF072ehKNwrbVXJlOlHmEGA9Ur3n+eDt1cEq4IcmJIjkM1LtWs8YCvwpKleTW+/hBAjQ==",
+      "batBuoc": false,
+      "ghiChu": "Update"
+    },
+    {
       "maWeb": 26100501,
       "nenTang": "android",
       "khoaVo": "1.0.295+502",

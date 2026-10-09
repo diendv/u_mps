@@ -2,6 +2,36 @@
   "v": 1,
   "items": [
     {
+      "maWeb": 26100901,
+      "nenTang": "android",
+      "khoaVo": "1.0.295+502",
+      "url": "https://github.com/diendv/u_mps/releases/download/r26100901/p.bin",
+      "sha256": "db26a7c71073c15701ea381ba1ef2249e7c0ec1e8797dbdfb8d4cc88c971957e",
+      "sig": "F8jSH6SqArYVzmFTpfHTk2p/fpjtBZ7U1ObQVWtKCtJdRZX+MkE0TI+hkhhgKj492pS6NZQzNXuilE3opWp0cDvY762P9+TLRyUVbBioAC0Mwk0N5uhzRtK551Eq3ffKJ3wk9x59bxe9Llew17QeZwXSvQbM2Thp3krPnYBOItg21WfRoBhC2bAMt22eyjxn0qeuXB23rYee5y0Qzq6UOknjVXqvGSfekDWf6tE4PIgfka7r37LgChN/AUPtlrFGCwHrrMJCwp40zN9k350gOALN01b9/yuN+X6wGzybI3pt/or8qkmxHRjKRXbmQ0boC1dYd2kK0wFH1Wc0S0zY4Q==",
+      "batBuoc": false,
+      "ghiChu": "Fix 1 số lỗi, nâng cao trải nghiệm"
+    },
+    {
+      "maWeb": 26100901,
+      "nenTang": "iosInhouse",
+      "khoaVo": "1.0.295+500",
+      "url": "https://github.com/diendv/u_mps/releases/download/r26100901/p.bin",
+      "sha256": "db26a7c71073c15701ea381ba1ef2249e7c0ec1e8797dbdfb8d4cc88c971957e",
+      "sig": "F8jSH6SqArYVzmFTpfHTk2p/fpjtBZ7U1ObQVWtKCtJdRZX+MkE0TI+hkhhgKj492pS6NZQzNXuilE3opWp0cDvY762P9+TLRyUVbBioAC0Mwk0N5uhzRtK551Eq3ffKJ3wk9x59bxe9Llew17QeZwXSvQbM2Thp3krPnYBOItg21WfRoBhC2bAMt22eyjxn0qeuXB23rYee5y0Qzq6UOknjVXqvGSfekDWf6tE4PIgfka7r37LgChN/AUPtlrFGCwHrrMJCwp40zN9k350gOALN01b9/yuN+X6wGzybI3pt/or8qkmxHRjKRXbmQ0boC1dYd2kK0wFH1Wc0S0zY4Q==",
+      "batBuoc": false,
+      "ghiChu": "Fix 1 số lỗi, nâng cao trải nghiệm"
+    },
+    {
+      "maWeb": 26100901,
+      "nenTang": "iosAppStore",
+      "khoaVo": "1.0.295+501",
+      "url": "https://github.com/diendv/u_mps/releases/download/r26100901/p.bin",
+      "sha256": "db26a7c71073c15701ea381ba1ef2249e7c0ec1e8797dbdfb8d4cc88c971957e",
+      "sig": "F8jSH6SqArYVzmFTpfHTk2p/fpjtBZ7U1ObQVWtKCtJdRZX+MkE0TI+hkhhgKj492pS6NZQzNXuilE3opWp0cDvY762P9+TLRyUVbBioAC0Mwk0N5uhzRtK551Eq3ffKJ3wk9x59bxe9Llew17QeZwXSvQbM2Thp3krPnYBOItg21WfRoBhC2bAMt22eyjxn0qeuXB23rYee5y0Qzq6UOknjVXqvGSfekDWf6tE4PIgfka7r37LgChN/AUPtlrFGCwHrrMJCwp40zN9k350gOALN01b9/yuN+X6wGzybI3pt/or8qkmxHRjKRXbmQ0boC1dYd2kK0wFH1Wc0S0zY4Q==",
+      "batBuoc": false,
+      "ghiChu": "Fix 1 số lỗi, nâng cao trải nghiệm"
+    },
+    {
       "maWeb": 26100502,
       "nenTang": "android",
       "khoaVo": "1.0.295+502",

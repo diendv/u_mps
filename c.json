@@ -2,6 +2,36 @@
   "v": 1,
   "items": [
     {
+      "maWeb": 26101301,
+      "nenTang": "android",
+      "khoaVo": "1.0.295+502",
+      "url": "https://github.com/diendv/u_mps/releases/download/r26101301/p.bin",
+      "sha256": "7baab5eb66381c870c93d20db9e83c4fcb5262973a37e1676c2b9f5c645d6fd8",
+      "sig": "E3o3inkD1rur2Po51G18Gk+qqJXO1ykpLmL1wJ/vI+438eMkFnw2ZA/dHvy4/xNjxmqq2VAJxi7KRvg7FnkiJvsMekIJw11pakyadoZQiijFKnb26p1eUKltu4Z1vd6HqOmnqj3PSgS/FGJnqQOkoLvI+RMlSBS9CNaRQawvHB1AkpATNhDJi2MMlmdQUW3mv4752aaQS+5QghqIcM0CCKXvEwqLElSdze/I1p3rmvcoMcqVN89+59m+v575pm2lGO097p1rs/NbM4O8fC2J3GZ4cqpekCTflS48CxQs3rR6wNhs8Ky8rPg9KUuwI5398Yv+3dky7fiqM4YfflxnMQ==",
+      "batBuoc": false,
+      "ghiChu": "Nâng cao trải nghiệm và tối ưu hóa"
+    },
+    {
+      "maWeb": 26101301,
+      "nenTang": "iosInhouse",
+      "khoaVo": "1.0.295+500",
+      "url": "https://github.com/diendv/u_mps/releases/download/r26101301/p.bin",
+      "sha256": "7baab5eb66381c870c93d20db9e83c4fcb5262973a37e1676c2b9f5c645d6fd8",
+      "sig": "E3o3inkD1rur2Po51G18Gk+qqJXO1ykpLmL1wJ/vI+438eMkFnw2ZA/dHvy4/xNjxmqq2VAJxi7KRvg7FnkiJvsMekIJw11pakyadoZQiijFKnb26p1eUKltu4Z1vd6HqOmnqj3PSgS/FGJnqQOkoLvI+RMlSBS9CNaRQawvHB1AkpATNhDJi2MMlmdQUW3mv4752aaQS+5QghqIcM0CCKXvEwqLElSdze/I1p3rmvcoMcqVN89+59m+v575pm2lGO097p1rs/NbM4O8fC2J3GZ4cqpekCTflS48CxQs3rR6wNhs8Ky8rPg9KUuwI5398Yv+3dky7fiqM4YfflxnMQ==",
+      "batBuoc": false,
+      "ghiChu": "Nâng cao trải nghiệm và tối ưu hóa"
+    },
+    {
+      "maWeb": 26101301,
+      "nenTang": "iosAppStore",
+      "khoaVo": "1.0.295+501",
+      "url": "https://github.com/diendv/u_mps/releases/download/r26101301/p.bin",
+      "sha256": "7baab5eb66381c870c93d20db9e83c4fcb5262973a37e1676c2b9f5c645d6fd8",
+      "sig": "E3o3inkD1rur2Po51G18Gk+qqJXO1ykpLmL1wJ/vI+438eMkFnw2ZA/dHvy4/xNjxmqq2VAJxi7KRvg7FnkiJvsMekIJw11pakyadoZQiijFKnb26p1eUKltu4Z1vd6HqOmnqj3PSgS/FGJnqQOkoLvI+RMlSBS9CNaRQawvHB1AkpATNhDJi2MMlmdQUW3mv4752aaQS+5QghqIcM0CCKXvEwqLElSdze/I1p3rmvcoMcqVN89+59m+v575pm2lGO097p1rs/NbM4O8fC2J3GZ4cqpekCTflS48CxQs3rR6wNhs8Ky8rPg9KUuwI5398Yv+3dky7fiqM4YfflxnMQ==",
+      "batBuoc": false,
+      "ghiChu": "Nâng cao trải nghiệm và tối ưu hóa"
+    },
+    {
       "maWeb": 26100901,
       "nenTang": "android",
       "khoaVo": "1.0.295+502",

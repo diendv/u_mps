@@ -2,6 +2,36 @@
   "v": 1,
   "items": [
     {
+      "maWeb": 26110402,
+      "nenTang": "android",
+      "khoaVo": "1.0.295+502",
+      "url": "https://github.com/diendv/u_mps/releases/download/r26110402/p.bin",
+      "sha256": "12e813dfadfd425cd8bf9ac769cabf7633fc0bae64b475382aba71db181c3695",
+      "sig": "sTfihNrK8C++RQn/Czve1mK9EPZXmZW5oislOn7ZTG/1/JevvHg0wy0ZqqAEPEYCICSa475csdzz5HSLF+lHnGQmuDD2SLOhJ//IsBVtRx0zvOBNWnOSBMncShAGv+yOKTitc+7TbC51bdRNGAdwUs+/AMEmjMz4lg7h02XFhNEJNfqAj8q3xIVg02vW7QvyQhl9+US8eRRgVqcdz8W7aqHngAw824ps2JMxUAONwwmreWI4uxBcrGPbH1RayOcvEvpiR8Ypaeku+FFVEMoUEHBe10fMxICZBMWiyUPJ4hvB76Wy8dq0tGdEfnG14WnpClWpNkOsJrXknHDthdupVA==",
+      "batBuoc": false,
+      "ghiChu": "Fix một số lỗi"
+    },
+    {
+      "maWeb": 26110402,
+      "nenTang": "iosInhouse",
+      "khoaVo": "1.0.295+500",
+      "url": "https://github.com/diendv/u_mps/releases/download/r26110402/p.bin",
+      "sha256": "12e813dfadfd425cd8bf9ac769cabf7633fc0bae64b475382aba71db181c3695",
+      "sig": "sTfihNrK8C++RQn/Czve1mK9EPZXmZW5oislOn7ZTG/1/JevvHg0wy0ZqqAEPEYCICSa475csdzz5HSLF+lHnGQmuDD2SLOhJ//IsBVtRx0zvOBNWnOSBMncShAGv+yOKTitc+7TbC51bdRNGAdwUs+/AMEmjMz4lg7h02XFhNEJNfqAj8q3xIVg02vW7QvyQhl9+US8eRRgVqcdz8W7aqHngAw824ps2JMxUAONwwmreWI4uxBcrGPbH1RayOcvEvpiR8Ypaeku+FFVEMoUEHBe10fMxICZBMWiyUPJ4hvB76Wy8dq0tGdEfnG14WnpClWpNkOsJrXknHDthdupVA==",
+      "batBuoc": false,
+      "ghiChu": "Fix một số lỗi"
+    },
+    {
+      "maWeb": 26110402,
+      "nenTang": "iosAppStore",
+      "khoaVo": "1.0.295+501",
+      "url": "https://github.com/diendv/u_mps/releases/download/r26110402/p.bin",
+      "sha256": "12e813dfadfd425cd8bf9ac769cabf7633fc0bae64b475382aba71db181c3695",
+      "sig": "sTfihNrK8C++RQn/Czve1mK9EPZXmZW5oislOn7ZTG/1/JevvHg0wy0ZqqAEPEYCICSa475csdzz5HSLF+lHnGQmuDD2SLOhJ//IsBVtRx0zvOBNWnOSBMncShAGv+yOKTitc+7TbC51bdRNGAdwUs+/AMEmjMz4lg7h02XFhNEJNfqAj8q3xIVg02vW7QvyQhl9+US8eRRgVqcdz8W7aqHngAw824ps2JMxUAONwwmreWI4uxBcrGPbH1RayOcvEvpiR8Ypaeku+FFVEMoUEHBe10fMxICZBMWiyUPJ4hvB76Wy8dq0tGdEfnG14WnpClWpNkOsJrXknHDthdupVA==",
+      "batBuoc": false,
+      "ghiChu": "Fix một số lỗi"
+    },
+    {
       "maWeb": 26110401,
       "nenTang": "android",
       "khoaVo": "1.0.295+502",

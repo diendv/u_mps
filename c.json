@@ -2,6 +2,36 @@
   "v": 1,
   "items": [
     {
+      "maWeb": 26110501,
+      "nenTang": "android",
+      "khoaVo": "1.0.295+502",
+      "url": "https://github.com/diendv/u_mps/releases/download/r26110501/p.bin",
+      "sha256": "fdcf21687655de65cb8867e628ea453b5005cb2d42835836084a65874690cabb",
+      "sig": "Q1D3gZ3xtFjNOyRUe9DbXvHLr/cGaqiqS6rRs9mSgxBN3IXHzeRNoc1BwiRS4MAieg98CimYMzusLN0Fib6/U4VuNpaDIt/IkcKhfrdEQzSiOelGfCLdjTS9D3Kqm46xRC03a7O8rAML9C3RsdLf3KC7n1l03q3Bjy18ooDIrEeYHdkxhG+b4djvQ5oZLv1jvkyZcxAjLESYqdqxvWMPJrjaURxaHBWpjbQy3dsiLFe3aIOoJD/KCYNXImqgeLGYv0nIAswRPvRP88/qDlOwx2qZfURylow3eWrQ/UMiOUoVu3G0SNSuUHR8AUBarhLiWUtP2kJobAhey2vw5q1lKA==",
+      "batBuoc": false,
+      "ghiChu": "Update 1 số tiện ích mới"
+    },
+    {
+      "maWeb": 26110501,
+      "nenTang": "iosInhouse",
+      "khoaVo": "1.0.295+500",
+      "url": "https://github.com/diendv/u_mps/releases/download/r26110501/p.bin",
+      "sha256": "fdcf21687655de65cb8867e628ea453b5005cb2d42835836084a65874690cabb",
+      "sig": "Q1D3gZ3xtFjNOyRUe9DbXvHLr/cGaqiqS6rRs9mSgxBN3IXHzeRNoc1BwiRS4MAieg98CimYMzusLN0Fib6/U4VuNpaDIt/IkcKhfrdEQzSiOelGfCLdjTS9D3Kqm46xRC03a7O8rAML9C3RsdLf3KC7n1l03q3Bjy18ooDIrEeYHdkxhG+b4djvQ5oZLv1jvkyZcxAjLESYqdqxvWMPJrjaURxaHBWpjbQy3dsiLFe3aIOoJD/KCYNXImqgeLGYv0nIAswRPvRP88/qDlOwx2qZfURylow3eWrQ/UMiOUoVu3G0SNSuUHR8AUBarhLiWUtP2kJobAhey2vw5q1lKA==",
+      "batBuoc": false,
+      "ghiChu": "Update 1 số tiện ích mới"
+    },
+    {
+      "maWeb": 26110501,
+      "nenTang": "iosAppStore",
+      "khoaVo": "1.0.295+501",
+      "url": "https://github.com/diendv/u_mps/releases/download/r26110501/p.bin",
+      "sha256": "fdcf21687655de65cb8867e628ea453b5005cb2d42835836084a65874690cabb",
+      "sig": "Q1D3gZ3xtFjNOyRUe9DbXvHLr/cGaqiqS6rRs9mSgxBN3IXHzeRNoc1BwiRS4MAieg98CimYMzusLN0Fib6/U4VuNpaDIt/IkcKhfrdEQzSiOelGfCLdjTS9D3Kqm46xRC03a7O8rAML9C3RsdLf3KC7n1l03q3Bjy18ooDIrEeYHdkxhG+b4djvQ5oZLv1jvkyZcxAjLESYqdqxvWMPJrjaURxaHBWpjbQy3dsiLFe3aIOoJD/KCYNXImqgeLGYv0nIAswRPvRP88/qDlOwx2qZfURylow3eWrQ/UMiOUoVu3G0SNSuUHR8AUBarhLiWUtP2kJobAhey2vw5q1lKA==",
+      "batBuoc": false,
+      "ghiChu": "Update 1 số tiện ích mới"
+    },
+    {
       "maWeb": 26110403,
       "nenTang": "android",
       "khoaVo": "1.0.295+502",

@@ -2,6 +2,36 @@
   "v": 1,
   "items": [
     {
+      "maWeb": 26111201,
+      "nenTang": "android",
+      "khoaVo": "1.0.295+502",
+      "url": "https://github.com/diendv/u_mps/releases/download/r26111201/p.bin",
+      "sha256": "63adad35d73750b5b3522e65d2447c6cc2a58702f2075072fef840c20752223b",
+      "sig": "ipuKfIvbL036QA8bmkwPzgI0nOv37CVuFPpP9j4sucjLkojYLc5q9jjr9CVmO+YaWTCSSM+vTtx7id9s6ZYx5UmEZRkKy4GTrbrKzNAN9GEg+1pUCpLq6R4SfcPJvUkh341N3V82QLlXKUDCqozbr7BYfHlVYRD5kKoVO6D0OY0p3N8bhhqIRCPtix3gxyRj/nW+uZBsgSTKpnz2LTS7s5tcvUVhfonVYfvtvVQ37Zl9LkXQfuKAN46PX1grp7L46SSYSuEV07+IzRS164DqLVaAYDS0FEzKZK1zAK1YuSgRX+pMA1d5VYtt3s2xoyWooNIqxfLqKSNAjr/0fMhaJQ==",
+      "batBuoc": false,
+      "ghiChu": "Update 1 số tiện ích mới"
+    },
+    {
+      "maWeb": 26111201,
+      "nenTang": "iosInhouse",
+      "khoaVo": "1.0.295+500",
+      "url": "https://github.com/diendv/u_mps/releases/download/r26111201/p.bin",
+      "sha256": "63adad35d73750b5b3522e65d2447c6cc2a58702f2075072fef840c20752223b",
+      "sig": "ipuKfIvbL036QA8bmkwPzgI0nOv37CVuFPpP9j4sucjLkojYLc5q9jjr9CVmO+YaWTCSSM+vTtx7id9s6ZYx5UmEZRkKy4GTrbrKzNAN9GEg+1pUCpLq6R4SfcPJvUkh341N3V82QLlXKUDCqozbr7BYfHlVYRD5kKoVO6D0OY0p3N8bhhqIRCPtix3gxyRj/nW+uZBsgSTKpnz2LTS7s5tcvUVhfonVYfvtvVQ37Zl9LkXQfuKAN46PX1grp7L46SSYSuEV07+IzRS164DqLVaAYDS0FEzKZK1zAK1YuSgRX+pMA1d5VYtt3s2xoyWooNIqxfLqKSNAjr/0fMhaJQ==",
+      "batBuoc": false,
+      "ghiChu": "Update 1 số tiện ích mới"
+    },
+    {
+      "maWeb": 26111201,
+      "nenTang": "iosAppStore",
+      "khoaVo": "1.0.295+501",
+      "url": "https://github.com/diendv/u_mps/releases/download/r26111201/p.bin",
+      "sha256": "63adad35d73750b5b3522e65d2447c6cc2a58702f2075072fef840c20752223b",
+      "sig": "ipuKfIvbL036QA8bmkwPzgI0nOv37CVuFPpP9j4sucjLkojYLc5q9jjr9CVmO+YaWTCSSM+vTtx7id9s6ZYx5UmEZRkKy4GTrbrKzNAN9GEg+1pUCpLq6R4SfcPJvUkh341N3V82QLlXKUDCqozbr7BYfHlVYRD5kKoVO6D0OY0p3N8bhhqIRCPtix3gxyRj/nW+uZBsgSTKpnz2LTS7s5tcvUVhfonVYfvtvVQ37Zl9LkXQfuKAN46PX1grp7L46SSYSuEV07+IzRS164DqLVaAYDS0FEzKZK1zAK1YuSgRX+pMA1d5VYtt3s2xoyWooNIqxfLqKSNAjr/0fMhaJQ==",
+      "batBuoc": false,
+      "ghiChu": "Update 1 số tiện ích mới"
+    },
+    {
       "maWeb": 26111103,
       "nenTang": "android",
       "khoaVo": "1.0.295+502",
@@ -270,36 +300,6 @@
       "sig": "av46b1VhbNi0d3v/A42f5DyoIExXooMPxnQrRFjKY55OqhlFvZCrjzlcnxMyqFzxhoF/t1TQhHlhOgrchWLS55ZghVu1rZm8LPOVw3AOlSI6zilm0M7QsBYWWlqVxAjxIPY1O7lLZCUHeo+iyBvkNNRrmMAW6t0NM9BBTsmIoC/kXobOBn+aVoXEwmHTBtMWTZBXLBuGnM4BF9eFbdQjoSAUvQvAZiZ7uYJozOAjFZjoLr5rsemf4HLM2XMZv6uKrTCa6l0GiXbSKlns2xFfJUvwG2w8PfEk5txlIAAiOskwvlZuTcNUZAkgRYugmMXPoiH4RVpgB3eftQEHeDgtBw==",
       "batBuoc": false,
       "ghiChu": "Update 1 số tiện ích mới"
-    },
-    {
-      "maWeb": 26102901,
-      "nenTang": "android",
-      "khoaVo": "1.0.295+502",
-      "url": "https://github.com/diendv/u_mps/releases/download/r26102901/p.bin",
-      "sha256": "8420f490d7e2e8dc92085a0017bd71bd53706e7a32228f019291340a1c33e25e",
-      "sig": "jvt3tZZiNPGaYN6BQGmRsUs8uGFsEigFJnlaCYz6Leh3GMHcO2o7fhSR6cu1BsGes4qvRZLDW16rzCZMxrrKIa471Z4DkRQDqa9yH9o4NDqgRi3lkbfZPwXaBBc2Y1fRHKlOcM6xg2DWr16iIRym7X1/kVAWBK3+EmEErG5YWmoccm12vdjUTFB2cqujq0hrJGHuFVIL00JuITZKDnZBkiNm4VdLeGVz9Giry+sYWmNOtu7rmqbSpnyitlwQ9eOL4j0Cc2Pr4r4EDsVqf33DYW4YVOF8EojVd8L5eJ7LesVBuZV3NuUf31ZrHCAZgVfRdPlrQvjXn7L6R9jWLmhYsA==",
-      "batBuoc": false,
-      "ghiChu": "Fix 1 số lỗi quy trình xét duyệt"
-    },
-    {
-      "maWeb": 26102901,
-      "nenTang": "iosInhouse",
-      "khoaVo": "1.0.295+500",
-      "url": "https://github.com/diendv/u_mps/releases/download/r26102901/p.bin",
-      "sha256": "8420f490d7e2e8dc92085a0017bd71bd53706e7a32228f019291340a1c33e25e",
-      "sig": "jvt3tZZiNPGaYN6BQGmRsUs8uGFsEigFJnlaCYz6Leh3GMHcO2o7fhSR6cu1BsGes4qvRZLDW16rzCZMxrrKIa471Z4DkRQDqa9yH9o4NDqgRi3lkbfZPwXaBBc2Y1fRHKlOcM6xg2DWr16iIRym7X1/kVAWBK3+EmEErG5YWmoccm12vdjUTFB2cqujq0hrJGHuFVIL00JuITZKDnZBkiNm4VdLeGVz9Giry+sYWmNOtu7rmqbSpnyitlwQ9eOL4j0Cc2Pr4r4EDsVqf33DYW4YVOF8EojVd8L5eJ7LesVBuZV3NuUf31ZrHCAZgVfRdPlrQvjXn7L6R9jWLmhYsA==",
-      "batBuoc": false,
-      "ghiChu": "Fix 1 số lỗi quy trình xét duyệt"
-    },
-    {
-      "maWeb": 26102901,
-      "nenTang": "iosAppStore",
-      "khoaVo": "1.0.295+501",
-      "url": "https://github.com/diendv/u_mps/releases/download/r26102901/p.bin",
-      "sha256": "8420f490d7e2e8dc92085a0017bd71bd53706e7a32228f019291340a1c33e25e",
-      "sig": "jvt3tZZiNPGaYN6BQGmRsUs8uGFsEigFJnlaCYz6Leh3GMHcO2o7fhSR6cu1BsGes4qvRZLDW16rzCZMxrrKIa471Z4DkRQDqa9yH9o4NDqgRi3lkbfZPwXaBBc2Y1fRHKlOcM6xg2DWr16iIRym7X1/kVAWBK3+EmEErG5YWmoccm12vdjUTFB2cqujq0hrJGHuFVIL00JuITZKDnZBkiNm4VdLeGVz9Giry+sYWmNOtu7rmqbSpnyitlwQ9eOL4j0Cc2Pr4r4EDsVqf33DYW4YVOF8EojVd8L5eJ7LesVBuZV3NuUf31ZrHCAZgVfRdPlrQvjXn7L6R9jWLmhYsA==",
-      "batBuoc": false,
-      "ghiChu": "Fix 1 số lỗi quy trình xét duyệt"
     }
   ]
 }
